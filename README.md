@@ -1,5 +1,5 @@
 
-# Project Topic: Bank Marketing
+# Project Topic: Bank Marketing Using Machine Learning.
 - Data Source: Kaggle (CSV format)
 - Data Processing:
   - Converted data into a Pandas DataFrame
