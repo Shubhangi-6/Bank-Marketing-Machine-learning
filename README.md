@@ -1,4 +1,4 @@
-# ML
+
 # Project Topic: Bank Marketing
 - Data Source: Kaggle (CSV format)
 - Data Processing:
