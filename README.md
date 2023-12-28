@@ -1,7 +1,7 @@
 
 # Bank Marketing Using Machine Learning.
 - Data Source: Kaggle (CSV format)
-- Data Processing:
+- Data Processing
   - Converted data into a Pandas DataFrame
 - Problem Statement: Predict whether a client will subscribe (yes/no) to a bank term deposit
 - Exploratory Data Analysis (EDA):
